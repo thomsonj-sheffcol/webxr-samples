@@ -77,9 +77,9 @@
         {
             "doubleSided" : true,
             "emissiveFactor" : [
-                0,
-                0,
-                0
+                0.2140350043773651,
+                0.2140350043773651,
+                0.2140350043773651
             ],
             "name" : "material_0",
             "pbrMetallicRoughness" : {
